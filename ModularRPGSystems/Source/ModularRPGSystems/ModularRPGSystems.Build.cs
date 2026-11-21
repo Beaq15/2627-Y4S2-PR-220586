@@ -18,7 +18,8 @@ public class ModularRPGSystems : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
+            "GameplayTags",
+            "Slate"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
